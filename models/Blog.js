@@ -14,6 +14,7 @@ Blog.init(
         title: {
           type: DataTypes.STRING,
           allowNull: false,
+          defaultValue: DataTypes.STRING
         },
         content: {
           type: DataTypes.STRING,

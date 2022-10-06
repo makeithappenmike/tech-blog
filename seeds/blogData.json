@@ -1,7 +1,10 @@
 [
   {
+    "title": "This is a blog title!",
+    "content": "This is some content!",
+    "date_created": "01/01/2022",
+    "user_id": 1,
     "comment": "This is a comment!",
-    "username": "username",
-    "date_created": "01/01/2022"
+    "username": "username"
   }
 ]
